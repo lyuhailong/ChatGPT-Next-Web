@@ -3,7 +3,6 @@ import { BuiltinMask } from "./typing";
 export const CN_MASKS: BuiltinMask[] = [
   
   {
-  id: "xNQijDIEhF5UXeKV_KLxc",
   avatar: "1f603",
   name: "Psychiatry Tutor学习向导",
   context: [{
@@ -31,7 +30,6 @@ export const CN_MASKS: BuiltinMask[] = [
   createdAt: 1707061720226
 },
   {
-  id: "siTNhxHepK0xJoD4HR4PQ",
   avatar: "2714-fe0f",
   name: "医学科目/疾病学习路径规划",
   context: [{
